@@ -37,4 +37,4 @@ Wireshark Network Traffic Analysis
 
 ## Contact
 
-GitHub: https://github.com/Kelvin Boamah
+GitHub: https://github.com/KelvinBoamah
